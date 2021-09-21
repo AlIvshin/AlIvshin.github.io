@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "alivshin.github.io",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
