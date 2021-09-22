@@ -2,12 +2,9 @@
     "applinks": {
         "details": [
             {
-		"appIDs":["3267X44657.com.elcompanies.academy.dev","3267X44657.com.elcompanies.academy.qa","3267X44657.com.elcompanies.academy.uat"],
+		"appIDs":["3267X44657.com.elcompanies.academy.dev"],
 		"components": [{
 			"/":"/*",
-		},
-		{
-			"/":"/test/*"
 		}]
             }
         ]
