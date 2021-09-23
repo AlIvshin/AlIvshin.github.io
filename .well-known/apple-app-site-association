@@ -9,14 +9,11 @@
 			 ],
 			 "components":[
 				{
-				   "/":"/*"
+				   "/":"/not/*",
+				   "exclude": true
 				},
 				{
 				   "/":"/test/*"
-				},
-				{
-				   "/":"/not/*",
-				   "exclude": true
 				}
 			 ]
 		  }
