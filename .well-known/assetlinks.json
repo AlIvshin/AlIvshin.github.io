@@ -1,0 +1,38 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.elcinc.academy",
+        "sha256_cert_fingerprints":
+          ["0E:25:86:4E:63:9F:96:DF:7F:06:4C:96:8A:81:F3:EB:DF:E0:7B:AB:30:5E:F3:71:33:10:9F:DC:74:D5:5F:1A"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.elcinc.academy.qa",
+        "sha256_cert_fingerprints":
+          ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.elcinc.academy.staging",
+        "sha256_cert_fingerprints":
+          ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.elcinc.academy.uat",
+        "sha256_cert_fingerprints":
+          ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+      }
+    }
+  ]
